@@ -1,4 +1,7 @@
-## Hi there 👋
+CONFIG
+FULL_NAME: Larissa Alexandra Molina Borja
+GITHUB_USER: lamolina-2023a-lgtm
+-->## Hi there 👋
 
 <!--
 **lamolina-2023a-lgtm/lamolina-2023a-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
